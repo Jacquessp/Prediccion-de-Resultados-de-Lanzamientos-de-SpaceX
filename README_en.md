@@ -1,6 +1,6 @@
-#SpaceX Machine Learning Prediction
-##General Description
-This project aims to develop predictive models using Machine Learning techniques to analyze historical SpaceX data. The primary goal is to forecast the success of future rocket launches by examining various factors that may influence mission outcomes. The project is divided into multiple parts, each focusing on different aspects of data analysis and model building.
+# SpaceX Machine Learning Prediction
+## General Description
+** This project aims to develop predictive models using Machine Learning techniques to analyze historical SpaceX data. The primary goal is to forecast the success of future rocket launches by examining various factors that may influence mission outcomes. The project is divided into multiple parts, each focusing on different aspects of data analysis and model building. **
 
 Project Structure
 1. Data Collection
