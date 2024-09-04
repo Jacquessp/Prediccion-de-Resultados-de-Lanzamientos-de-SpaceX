@@ -35,13 +35,5 @@ Notebook: SpaceX_Machine Learning Prediction_Part_5_Completed.ipynb
 Description:
 This notebook includes the final evaluation of the selected model, offering detailed metrics and visualizations to assess its performance. It also presents the final conclusions and potential future work.
 
-Contribution
-Contributions are welcome. To contribute:
-
-Fork the project.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes and commit them (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
